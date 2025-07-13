@@ -1,5 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
+using Warehouse_Management_System.Repository;
 using WebAPI_ITI_DB.Models;
 
 
@@ -18,7 +19,7 @@ namespace WebAPI_ITI_DB
                 option.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             });
             builder.Services.AddOpenApi();
-            //builder.Services.AddScoped<UnitOfWork>();
+            builder.Services.AddScoped<UnitOfWork>();
 
             builder.Services.AddDbContext<dbContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

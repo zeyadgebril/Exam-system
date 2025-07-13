@@ -1,9 +1,10 @@
+import { Exam } from './../../Model/exam';
 import { Component, Input, OnChanges, OnInit, SimpleChanges } from '@angular/core';
 import { QuestionFormData } from '../../Model/question-form-data';
 import { FormsModule } from '@angular/forms';
 import { QuestionSection } from "./question-section/question-section";
 import { CommonModule } from '@angular/common';
-import { Exam } from '../../Model/exam';
+import { QuestionServices } from '../../Services/question-services';
 
 @Component({
   selector: 'app-question-form',
@@ -12,6 +13,8 @@ import { Exam } from '../../Model/exam';
   styleUrl: './question-form.css'
 })
 export class QuestionForm implements OnChanges {
+  constructor(private ExamServices:QuestionServices) { }
+
  @Input() QuestionNumber: number = 0;
  examData: Exam={
   ExamName: '',
@@ -81,6 +84,17 @@ ngOnChanges(changes: SimpleChanges): void {
     console.log('Save Question 11 called');
     this.examData.QuestionData = this.QuestionData;
     console.log('Exam Data to be saved:', this.examData);
+
+    this.ExamServices.AddNewExam(this.examData).subscribe({
+      next: (response) => {
+        console.log('Exam saved successfully:', response);
+        alert('Exam saved successfully!');
+      },
+      error: (error) => {
+        console.error('Error saving exam:', error);
+        alert('Failed to save exam. Please try again.');
+      }
+    });
   }
   resetForm(){
     if(confirm("Are you sure you want to reset the form?")) {
