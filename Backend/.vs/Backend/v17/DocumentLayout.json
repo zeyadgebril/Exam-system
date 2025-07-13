@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\repository\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\repository\\student\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\student\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,28 +63,12 @@
       "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\repository\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\student\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\repository\\student\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\student\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{917C8AF5-E9E8-455C-9E9E-629D412A7378}|Backend\\Backend.csproj|c:\\users\\zeyad\\onedrive\\desktop\\iti\\angular\\angular project\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,72 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "dbContext.cs",
               "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\dbContext.cs",
               "RelativeDocumentMoniker": "Backend\\Models\\dbContext.cs",
               "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\dbContext.cs",
               "RelativeToolTip": "Backend\\Models\\dbContext.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAkwIcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAkwIoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T14:13:34.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Backend\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:13:53.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250708182145_init.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Migrations\\20250708182145_init.cs",
-              "RelativeDocumentMoniker": "Backend\\Migrations\\20250708182145_init.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Migrations\\20250708182145_init.cs",
-              "RelativeToolTip": "Backend\\Migrations\\20250708182145_init.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAUwEwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:21:46.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "YearLevel.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\YearLevel.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\YearLevel.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\YearLevel.cs",
-              "RelativeToolTip": "Backend\\Models\\YearLevel.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAhwCIAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:05:32.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250708184202_init.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Migrations\\20250708184202_init.cs",
-              "RelativeDocumentMoniker": "Backend\\Migrations\\20250708184202_init.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Migrations\\20250708184202_init.cs",
-              "RelativeToolTip": "Backend\\Migrations\\20250708184202_init.cs",
-              "ViewState": "AgIAAGgBAAAAAAAAAAAuwHYBAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:42:03.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "UserSubject.cs",
               "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\UserSubject.cs",
               "RelativeDocumentMoniker": "Backend\\Models\\UserSubject.cs",
@@ -171,12 +119,11 @@
               "RelativeToolTip": "Backend\\Models\\UserSubject.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwBwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:05:13.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:05:13.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Exam.cs",
               "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\Exam.cs",
               "RelativeDocumentMoniker": "Backend\\Models\\Exam.cs",
@@ -184,116 +131,24 @@
               "RelativeToolTip": "Backend\\Models\\Exam.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAuwCsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T17:58:59.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T17:58:59.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExamAssignment.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ExamAssignment.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\ExamAssignment.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ExamAssignment.cs",
-              "RelativeToolTip": "Backend\\Models\\ExamAssignment.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA3wCMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:04:20.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExamResult.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ExamResult.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\ExamResult.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ExamResult.cs",
-              "RelativeToolTip": "Backend\\Models\\ExamResult.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAvwDgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:04:37.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentAnswer.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\StudentAnswer.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\StudentAnswer.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\StudentAnswer.cs",
-              "RelativeToolTip": "Backend\\Models\\StudentAnswer.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAIwC0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:04:57.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Repository\\Student\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "Backend\\Repository\\Student\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Repository\\Student\\StudentRepository.cs",
-              "RelativeToolTip": "Backend\\Repository\\Student\\StudentRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAEwCcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:03:27.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Backend\\Program.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Program.cs",
-              "RelativeToolTip": "Backend\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:26:44.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "Backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\appsettings.json",
-              "RelativeToolTip": "Backend\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T15:50:00.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Backend\\Repository\\UnitOfWork.cs",
               "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Repository\\UnitOfWork.cs",
               "RelativeToolTip": "Backend\\Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T13:56:55.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\Students.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\Students.cs",
-              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\Students.cs",
-              "RelativeToolTip": "Backend\\Models\\Students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T15:52:48.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Repository\\Student\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "Backend\\Repository\\Student\\IStudentRepository.cs",
@@ -306,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Backend\\Repository\\IRepository.cs",
@@ -319,6 +174,139 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Repository\\Student\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repository\\Student\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Repository\\Student\\StudentRepository.cs",
+              "RelativeToolTip": "Backend\\Repository\\Student\\StudentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:03:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250708184202_init.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Migrations\\20250708184202_init.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20250708184202_init.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Migrations\\20250708184202_init.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20250708184202_init.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAuwHYBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:42:03.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YearLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\YearLevel.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\YearLevel.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\YearLevel.cs",
+              "RelativeToolTip": "Backend\\Models\\YearLevel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:05:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250708182145_init.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Migrations\\20250708182145_init.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20250708182145_init.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Migrations\\20250708182145_init.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20250708182145_init.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwEwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:21:46.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Backend\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:13:53.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExamAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ExamAssignment.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\ExamAssignment.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ExamAssignment.cs",
+              "RelativeToolTip": "Backend\\Models\\ExamAssignment.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA3wCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:04:20.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExamResult.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ExamResult.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\ExamResult.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\ExamResult.cs",
+              "RelativeToolTip": "Backend\\Models\\ExamResult.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAvwDgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:04:37.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\StudentAnswer.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\StudentAnswer.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\StudentAnswer.cs",
+              "RelativeToolTip": "Backend\\Models\\StudentAnswer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:04:57.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:26:44.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T15:50:00.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\Students.cs",
+              "RelativeToolTip": "Backend\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:52:48.292Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\appsettings.Development.json",
@@ -327,8 +315,7 @@
               "RelativeToolTip": "Backend\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T14:25:49.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:25:49.207Z"
             }
           ]
         }

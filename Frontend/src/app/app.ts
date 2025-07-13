@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { AddButton } from "./Components/add-button/add-button";
+import { AddingQuestionsPage } from "./Pages/adding-questions-page/adding-questions-page";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [ AddingQuestionsPage],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "Backend\\Models\\dbContext.cs",
               "ToolTip": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ITI\\angular\\Angular Project\\Backend\\Backend\\Models\\dbContext.cs",
               "RelativeToolTip": "Backend\\Models\\dbContext.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAqwIcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAkwIcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T14:13:34.482Z",
               "EditorCaption": ""
@@ -119,8 +119,7 @@
               "RelativeToolTip": "Backend\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwBQAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:13:53.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:13:53.719Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Backend\\Migrations\\20250708182145_init.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAUwEwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:21:46.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:21:46.054Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "Backend\\Models\\YearLevel.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAhwCIAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:05:32.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:05:32.775Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "Backend\\Migrations\\20250708184202_init.cs",
               "ViewState": "AgIAAGgBAAAAAAAAAAAuwHYBAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:42:03.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:42:03.348Z"
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "RelativeToolTip": "Backend\\Models\\UserSubject.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwBwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:05:13.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:05:13.205Z"
             },
             {
               "$type": "Document",
@@ -184,8 +179,7 @@
               "RelativeToolTip": "Backend\\Models\\Exam.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAuwCsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T17:58:59.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T17:58:59.164Z"
             },
             {
               "$type": "Document",
@@ -197,8 +191,7 @@
               "RelativeToolTip": "Backend\\Models\\ExamAssignment.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA3wCMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:04:20.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:04:20.427Z"
             },
             {
               "$type": "Document",
@@ -210,8 +203,7 @@
               "RelativeToolTip": "Backend\\Models\\ExamResult.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAvwDgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:04:37.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:04:37.665Z"
             },
             {
               "$type": "Document",
@@ -223,8 +215,7 @@
               "RelativeToolTip": "Backend\\Models\\StudentAnswer.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAIwC0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:04:57.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:04:57.518Z"
             },
             {
               "$type": "Document",
@@ -236,8 +227,7 @@
               "RelativeToolTip": "Backend\\Repository\\Student\\StudentRepository.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAEwCcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:03:27.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:03:27.805Z"
             },
             {
               "$type": "Document",
@@ -249,8 +239,7 @@
               "RelativeToolTip": "Backend\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwBYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:26:44.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:26:44.519Z"
             },
             {
               "$type": "Document",
@@ -262,8 +251,7 @@
               "RelativeToolTip": "Backend\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T15:50:00.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T15:50:00.56Z"
             },
             {
               "$type": "Document",
@@ -275,8 +263,7 @@
               "RelativeToolTip": "Backend\\Repository\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T13:56:55.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T13:56:55.073Z"
             },
             {
               "$type": "Document",
@@ -288,8 +275,7 @@
               "RelativeToolTip": "Backend\\Models\\Students.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T15:52:48.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T15:52:48.292Z"
             },
             {
               "$type": "Document",
@@ -301,8 +287,7 @@
               "RelativeToolTip": "Backend\\Repository\\Student\\IStudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:03:16.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:03:16.639Z"
             },
             {
               "$type": "Document",
@@ -314,8 +299,7 @@
               "RelativeToolTip": "Backend\\Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T13:56:51.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T13:56:51.66Z"
             },
             {
               "$type": "Document",
@@ -327,8 +311,7 @@
               "RelativeToolTip": "Backend\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T14:25:49.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:25:49.207Z"
             }
           ]
         }
