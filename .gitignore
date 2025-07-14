@@ -1,0 +1,49 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# User-specific files
+*.swp
+*.userprefs
+*.sln.docstates
+
+# ASP.NET Secrets
+secrets.json
+
+# Rider IDE
+.idea/
+
+# Node modules (for Angular)
+**/node_modules/
+**/dist/
+**/build/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (optional)
+*.env
+*.env.*
+
+# Logs
+*.log
+
+# Dependency directories
+packages/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Publish folder
+publish/

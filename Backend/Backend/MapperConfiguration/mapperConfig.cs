@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Backend.DTOs;
+using Backend.Models;
 
 namespace Backend.MapperConfiguration
 {
@@ -14,7 +16,8 @@ namespace Backend.MapperConfiguration
             //{
             //    d.NumberOfStudent = s.Students.Count();
             //});
-
+            CreateMap<ApplicationUser, UserDTO>()
+            .ForMember(dest => dest.Username, opt => opt.MapFrom(src => src.UserName));
         }
     }
 }
