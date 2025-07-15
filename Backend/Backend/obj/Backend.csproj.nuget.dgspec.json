@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tracks\\Web\\ITI Full Stack .Net\\ITI .net\\Angular Project\\Exam-system\\Backend\\Backend\\Backend.csproj": {}
+    "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ttttttttttttttttttt\\Exam-system\\Backend\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "E:\\Tracks\\Web\\ITI Full Stack .Net\\ITI .net\\Angular Project\\Exam-system\\Backend\\Backend\\Backend.csproj": {
+    "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ttttttttttttttttttt\\Exam-system\\Backend\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tracks\\Web\\ITI Full Stack .Net\\ITI .net\\Angular Project\\Exam-system\\Backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ttttttttttttttttttt\\Exam-system\\Backend\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "E:\\Tracks\\Web\\ITI Full Stack .Net\\ITI .net\\Angular Project\\Exam-system\\Backend\\Backend\\Backend.csproj",
-        "packagesPath": "C:\\Users\\Islam\\.nuget\\packages\\",
-        "outputPath": "E:\\Tracks\\Web\\ITI Full Stack .Net\\ITI .net\\Angular Project\\Exam-system\\Backend\\Backend\\obj\\",
+        "projectPath": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ttttttttttttttttttt\\Exam-system\\Backend\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\Zeyad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zeyad\\OneDrive\\Desktop\\ttttttttttttttttttt\\Exam-system\\Backend\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

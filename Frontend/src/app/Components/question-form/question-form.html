@@ -1,0 +1,104 @@
+<div class="container">
+  <div class="header">
+    <h1>Examination Form</h1>
+    <p>Add New Exam</p>
+  </div>
+
+  <div class="form-container">
+    <form id="questionForm">
+      <div class="form-section">
+        <h3>Exam Details</h3>
+
+        <!-- First row: Exam Name and Duration -->
+        <div class="form-row">
+          <div class="form-group">
+            <label for="examName">Exam Name:</label>
+            <input
+              type="text"
+              id="examName"
+              [(ngModel)]="examData.ExamName"
+              name="examName"
+              placeholder="Enter exam name"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="durationInMinutes">Duration (Minutes):</label>
+            <input
+              type="number"
+              id="durationInMinutes"
+              placeholder="Enter duration in minutes"
+              [(ngModel)]="examData.ExamDuration"
+              name="durationInMinutes"
+              value="60"
+              min="1"
+              max="300"
+              required
+            />
+          </div>
+        </div>
+
+        <!-- Second row: Year Level and Subject -->
+        <div class="form-row">
+          <div class="form-group">
+            <label for="yearLevel">Year Level:</label>
+            <select
+              id="yearLevel"
+              name="yearLevel"
+              [(ngModel)]="examData.YearLevel"
+              required
+            >
+              <option [ngValue]="0" [selected]="true" disabled>
+                --Select Year Level--
+              </option>
+              <option [ngValue]="1">1st Year</option>
+              <option [ngValue]="2">2nd Year</option>
+              <option [ngValue]="3">3rd Year</option>
+              <option [ngValue]="4">4th Year</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="subject">Subject:</label>
+            <select
+              id="subject"
+              name="subject"
+              [(ngModel)]="examData.Subject"
+              required
+            >
+              <option [ngValue]="0" disabled>-- Select Subject --</option>
+              <option [ngValue]="1">Mathematics</option>
+              <option [ngValue]="2">Science</option>
+              <option [ngValue]="3">English</option>
+              <option [ngValue]="4">History</option>
+              <option [ngValue]="5">Geography</option>
+              <option [ngValue]="6">Physics</option>
+              <option [ngValue]="7">Chemistry</option>
+              <option [ngValue]="8">Biology</option>
+              <option [ngValue]="9">Literature</option>
+              <option [ngValue]="10">Computer Science</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Question Section HERE -->
+      <div *ngFor="let question of QuestionData; let i = index">
+        <app-question-section
+          [QuestionData]="question"
+          (SaveQuestionEvent)="saveQuestion($event)"
+        ></app-question-section>
+      </div>
+
+      <div class="actions justify-content-around">
+        <div>
+          <button (click)="resetForm()" class="btn btn-secondary mx-2">
+            Reset Form
+          </button>
+          <button (click)="saveExam()" class="btn btn-primary mx-2">
+            Save Question
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

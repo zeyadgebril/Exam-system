@@ -1,0 +1,18 @@
+<div class="option-item">
+  <input
+    type="radio"
+    name="correctAnswer"
+    [checked]="optionFormData.isCorrect"
+    (change)="onCorrectAnswerChange()"
+  />
+
+  <input
+    type="text"
+    placeholder="Enter option text..."
+    [(ngModel)]="optionFormData.text"
+    (blur)="onTextChange()"
+    required
+  />
+
+  <button class="btn btn-danger" (click)="RemoveOption()">Remove</button>
+</div>

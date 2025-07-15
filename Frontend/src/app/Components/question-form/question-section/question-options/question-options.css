@@ -1,0 +1,44 @@
+.option-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid rgb(59, 101, 101);
+}
+
+.option-item input[type="radio"] {
+  margin-right: 10px;
+  transform: scale(1.2);
+  accent-color: rgb(214, 87, 95);
+}
+
+.option-item input[type="text"] {
+  flex: 1;
+  margin-right: 15px;
+  margin-bottom: 0;
+}
+
+.btn {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all 0.3s;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.btn-danger {
+  background: #dc3545;
+  color: white;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+.btn-danger:hover {
+  background: #c82333;
+}

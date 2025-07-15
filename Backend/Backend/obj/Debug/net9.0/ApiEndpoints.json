@@ -30,5 +30,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend.Controllers.ExamFormController",
+    "Method": "AddExam",
+    "RelativePath": "api/ExamForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "form",
+        "Type": "Backend.DTO.ExaminationForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
