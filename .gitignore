@@ -1,0 +1,47 @@
+# ========================
+# Visual Studio + .NET
+# ========================
+.vs/
+*.user
+*.suo
+*.sln.docstates
+bin/
+obj/
+out/
+Debug/
+Release/
+*.db
+*.log
+
+# ASP.NET Secrets
+secrets.json
+
+# Rider
+.idea/
+
+# ================
+# Angular (Frontend)
+# ================
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+*.env
+*.env.*
+
+# ======================
+# npm / Yarn Logs
+# ======================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package lock (optional)
+package-lock.json
+yarn.lock
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Publish folder
+publish/
