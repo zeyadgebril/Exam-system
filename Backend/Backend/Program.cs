@@ -1,5 +1,11 @@
 
+using Backend.MapperConfiguration;
+using Backend.Repository.Auth;
+using Backend.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 using WebAPI_ITI_DB.Models;
 
 
@@ -23,7 +29,27 @@ namespace WebAPI_ITI_DB
             builder.Services.AddDbContext<dbContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-            //builder.Services.AddAutoMapper(typeof(mapperConfig));
+            builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+            builder.Services.AddScoped<IAuthService, AuthService>();
+            builder.Services.AddAutoMapper(typeof(mapperConfig));
+
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
+                {
+                    var config = builder.Configuration;
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = config["Jwt:Issuer"],
+                        ValidAudience = config["Jwt:Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["Jwt:Key"]))
+                    };
+                });
+
+            builder.Services.AddAuthorization();
 
             builder.Services.AddCors(option =>
             {
