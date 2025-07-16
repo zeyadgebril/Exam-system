@@ -1,13 +1,14 @@
-
 using Backend.MapperConfiguration;
+using Backend.Models;
 using Backend.Repository.Auth;
 using Backend.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using WebAPI_ITI_DB.Models;
-
 
 namespace WebAPI_ITI_DB
 {
@@ -15,19 +16,25 @@ namespace WebAPI_ITI_DB
     {
         public static void Main(string[] args)
         {
-            string textForCorss = "";
+            // Use a meaningful name for your CORS policy
+            string corsPolicyName = "AllowAll";
+
             var builder = WebApplication.CreateBuilder(args);
 
-
-            builder.Services.AddControllers().AddNewtonsoftJson(option=>
+            builder.Services.AddControllers().AddNewtonsoftJson(option =>
             {
                 option.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             });
+
             builder.Services.AddOpenApi();
             //builder.Services.AddScoped<UnitOfWork>();
 
             builder.Services.AddDbContext<dbContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<dbContext>()
+                .AddDefaultTokenProviders();
 
             builder.Services.AddScoped<IAuthRepository, AuthRepository>();
             builder.Services.AddScoped<IAuthService, AuthService>();
@@ -51,23 +58,20 @@ namespace WebAPI_ITI_DB
 
             builder.Services.AddAuthorization();
 
-            builder.Services.AddCors(option =>
+            builder.Services.AddCors(options =>
             {
-                option.AddPolicy(textForCorss,
+                options.AddPolicy(corsPolicyName,
                     builder =>
                     {
-                        //Incase of a known host and you need to specify it
-                        //builder.WithOrigins("https://localhost:7707", "https://localhost:3030",.....);
-                        //OR Allow all origin
-
-                        builder.AllowAnyOrigin();
-                        builder.AllowAnyMethod();
-                        builder.AllowAnyHeader();
+                        // Allow any origin, method, and header (adjust as needed)
+                        builder.AllowAnyOrigin()
+                               .AllowAnyMethod()
+                               .AllowAnyHeader();
                     });
             });
 
-
             var app = builder.Build();
+
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
@@ -77,9 +81,11 @@ namespace WebAPI_ITI_DB
 
             app.UseHttpsRedirection();
 
+            // Make sure to call UseAuthentication before UseAuthorization
+            app.UseAuthentication();
             app.UseAuthorization();
 
-            app.UseCors(textForCorss);
+            app.UseCors(corsPolicyName);
 
             app.MapControllers();
 

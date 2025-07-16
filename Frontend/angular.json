@@ -44,6 +44,32 @@
                   "maximumError": "8kB"
                 }
               ],
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputPath": "dist/frontend",
+              "sourceMap": false,
+              "extractLicenses": true,
+              "namedChunks": false,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "aot": true,
+              "extractCss": true,
+              "styles": [
+                {
+                  "input": "node_modules/bootstrap/dist/css/bootstrap.min.css"
+                },
+                {
+                  "input": "node_modules/bootstrap-icons/font/bootstrap-icons.css"
+                },
+                {
+                  "input": "src/styles.css"
+                }
+    ],
               "outputHashing": "all"
             },
             "development": {
