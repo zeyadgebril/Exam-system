@@ -21,7 +21,7 @@ namespace Backend.Repository.Auth
 
         public async Task<ApplicationUser> AuthenticateAsync(LoginDTO dto)
         {
-            var user = await _userManager.FindByNameAsync(dto.Username);
+            var user = await _userManager.FindByNameAsync(dto.Email);
             if (user == null || !await _userManager.CheckPasswordAsync(user, dto.Password))
                 return null;
 
